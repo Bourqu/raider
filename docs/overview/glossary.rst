@@ -12,7 +12,7 @@ Glossary
 
     In **Raider** the authentication process can be defined by a
     series of :term:`Flow objects <Flow>` interlinked with each
-    other. :term:`FlowGrahps <FlowGraph>` are used for that, which
+    other. :term:`FlowGraphs <FlowGraph>` are used for that, which
     contains a pointer to the start Flow, and an optional pointer to a
     test Flow.
 
