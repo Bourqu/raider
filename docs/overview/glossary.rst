@@ -50,7 +50,7 @@ Glossary
 
   FlowGraph
 
-    A **Raider** class implementing the a :term:`stateful
+    A **Raider** class implementing the :term:`stateful
     <State/Stateful>` HTTP process. It's basically a pointer to one
     starting Flow from where Raider should start running and follow
     the Next links.
